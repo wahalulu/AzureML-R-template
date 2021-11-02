@@ -34,7 +34,7 @@ This repo follows a pre-defined structure for storing your model code, pipelines
 |-------------------|--------------------------------------------|
 | `.cloud/.azure` | Configuration files for the Azure Machine Learning GitHub Actions used for MLOps |
 | `.github/workflows`| Folder for GitHub workflows used for MLOps |
-| `instructions/`| A step-by-step guide on how to onboard your first workload to AML |
+| `doc/`| A step-by-step guide on how to onboard your first workload to AML |
 | `sample-data/` | Some small sample data used for the template example |
 | `src/` | Model(s) code and other required code assets |
 | `src/model1` | An example showing docker environment, remote training, and automation for R code in AML |
